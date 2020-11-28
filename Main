@@ -1,2 +1,3 @@
 def xd():
   print(xd)
+  print("wtf")
